@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@chakra-ui/icons": "^2.2.4",
+    "axios": "^1.15.2",
+    "chalk": "^4.1.2",
+    "helmet": "^8.1.0",
+    "puppeteer": "^24.42.0",
+    "ws": "^8.20.0"
+  }
+}
