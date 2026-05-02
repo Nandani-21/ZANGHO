@@ -13,7 +13,7 @@ To run the application:
 
 ### Backend
 ```bash
-cd backend-starter
+cd .\test-agent\backend-starter
 npm install
 npm install mongodb-memory-server # required to run in-memory db locally
 npm start
@@ -21,14 +21,14 @@ npm start
 
 ### Frontend
 ```bash
-cd frontend-starter
+cd .\test-agent\frontend-starter
 npm install
 npm start
 ```
 
 ### Testing
 ```bash
-cd testing
+cd .\test-agent\testing
 npm install
 node test-runner.js
 ```
